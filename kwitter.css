@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+.section1{
+    background: white;
+    margin-top: 150px;
+    padding:40px ;
+    border-radius: 7px;
+
+}
+#letstalk{
+    width: 80px;
+    height: 80px;
+    padding: 10px;
+}
+
+#examplepic{
+    width: 745px;
+    height: 735px;
+    
+}
